@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const baseUrl = "http://localhost:3001";
+const baseUrl = "http://138.197.179.19";
 
 let authorization; // Declare without a type
 
