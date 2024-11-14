@@ -15,7 +15,7 @@ Run These Steps for the Project
 
    - Allow users to upload only image or video files.
    - Display a list of uploaded files to the user.
-   - Enable a drag-and-drop interface for organizing files on the user's display.
+   - Enable a drag-and-drop interface for organizing files on the user's display (You can check the drag functionality by dragging the 3 lines icon that is placed with id column inside table).
 
 3. **File Sharing:**
 
